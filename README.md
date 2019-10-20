@@ -15,6 +15,7 @@ If the all the percentages add up to be greater than 100% the program displays a
 
 ## Frontend
 The main page prompts for a login using your bank account and password. From here the java backend would come into play by letting the user enter all of his expenses using the balance from the bank account. Then using the calculated values the website will showcase a bargraph and table of the inputed values. 
+Attempted to implement AWS Lex chatbot to the website.
 
 - [x] java backend supported
 - [x] list syntax required
