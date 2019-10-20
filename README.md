@@ -24,3 +24,10 @@ Attempted to implement AWS Lex chatbot to the website.
 - [ ] connecting backend to frontend -> live website editable table
 - [x] Create Lex Bot
 - [ ] connecting Lex bot to frontend
+
+Build from scratch in under 24 hours by:
+Shashank Lal (sslal@umass.edu)
+Manay Patel (mbpatel@umass.edu)
+Jack Williams (jbwilliams@umass.edu)
+Ekisha Basu (ekishabasu@gmail.com)
+Naman Chopra (nchopra@umass.edu)
