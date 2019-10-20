@@ -21,3 +21,5 @@ Attempted to implement AWS Lex chatbot to the website.
 - [x] list syntax required
 - [x] error cases and linked bankaccount
 - [ ] connecting backend to frontend -> live website editable table
+- [x] Create Lex Bot
+- [ ] connecting Lex bot to frontend
