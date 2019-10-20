@@ -1,0 +1,44 @@
+*{
+	margin:0;
+}
+
+#topmain{
+	background: rgb(255,158,158);
+	background: linear-gradient(0deg, rgba(255,158,158,1) 0%, rgba(100,66,116,1) 87%);
+	font-family: 'Source Sans Pro', sans-serif;
+	padding:200px 0 0 0;
+	font-weight: 300;
+	color:white;
+	width: 100%;
+	height:94%;
+	text-align: center;
+	position: absolute;
+	z-index: -999;
+}
+
+#title{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 60px;
+}
+#topmain-lowertext{
+	padding:15px 0 0 0;
+	font-weight: light;
+	font-size: 25px;
+}
+.program{
+	text-align: center;
+	vertical-align: middle;
+	position: absolute;
+	left:0;
+	right:0;
+	margin: 0 auto;
+	width: 30vw;
+	height:28vh;
+	background-color: white;
+	border-radius: 4px;
+	color:grey;
+}
+a{
+	text-color:white;
+	border-radius: 2px;
+}
