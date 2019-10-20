@@ -1,0 +1,49 @@
+*{
+	margin:0;
+}
+
+body{
+	background-color: #002A45;
+	height:100vh;
+}
+
+#title{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 60px;
+}
+#topmain-lowertext{
+	padding:15px 0 0 0;
+	font-weight: light;
+	font-size: 25px;
+}
+.program{
+	text-align: center;
+	vertical-align: middle;
+	position: absolute;
+	left:0;
+	right:0;
+	margin: 0 auto;
+	width: 30vw;
+	height:28vh;
+	border-radius: 4px;
+	color:grey;
+}
+a{
+	text-color:white;
+	border-radius: 2px;
+}
+#chart{
+	width: 49vw;
+	height:60vh;
+	padding:10px 0 10px 0;
+	float:left;
+	font-size: 20px;
+}
+#title{
+	padding:20px 0 0 50px;
+}
+.tablesforexpenses{
+	width: 49vw;
+	float:right;
+	padding:40px 30px 0 0;
+}
