@@ -1,7 +1,7 @@
 #### Won best documentation at [HackUMass VII](https://hackumass.com/)
 # ImBroke 
 ImBroke is a small financial program that lets users categorize their monthly expenses and calculate how much they should spend within each month. Based on the entered percentages, the program will output monthly limits on spending within each category. 
-[Live page](https://imbroke.online)
+[Live page](N/A)
 ## Backend
 The goal of the java application is to implement a class that allocates the user's money from their bank account to several categories of expenses like buying groceries, dining, academics, recreational activities,etc.
 What we use in the main imBroke class is a bank account object that holds all the user's bank infromation
